@@ -6,7 +6,7 @@
 
 ## 🚀 About me
 
-I'm 20 years old and I'm currently studying software engineering
+I'm 22 years old and I'm currently studying software engineering
 
 ## 🛠 Skills
 <div>
